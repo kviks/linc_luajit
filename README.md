@@ -1,4 +1,10 @@
-# linc/LuaJIT
+# How install
+* step one `haxelib remove link_luajit`
+* step two `haxelib git linc_luajit https://github.com/kviks/linc_luajit`
+* done
+
+
+## linc/LuaJIT
 Haxe/hxcpp @:native bindings for [LuaJIT](http://luajit.org/).
 
 This is a [linc](http://snowkit.github.io/linc/) library.
