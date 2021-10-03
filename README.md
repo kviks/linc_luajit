@@ -1,5 +1,5 @@
 # How install
-* step one `haxelib remove link_luajit`
+* step one `haxelib remove linc_luajit`
 * step two `haxelib git linc_luajit https://github.com/kviks/linc_luajit`
 * done
 
